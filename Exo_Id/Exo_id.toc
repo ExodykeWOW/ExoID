@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cffFFFF00Exo|r|cffFF4500ID|r
+## Notes: ID в подсказке предметов, npc и тд.
+## SavedVariables: ExoDB
+## Author: Exodyke
+## Version: 1.0
+
+Exo_id.lua
